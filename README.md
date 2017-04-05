@@ -117,7 +117,7 @@ Which will re-create the updated containers, leaving databases and data as is. D
 
 Docker is great for quickly trying out software, but it has its drawbacks too. If you prefer to run Mastodon without using Docker, refer to the [production guide](docs/Running-Mastodon/Production-guide.md) for examples, configuration and instructions.
 
-## Deployment on Scalingo
+## Deployment on Scalingo
 
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/johnsudaar/mastodon#master)
 
